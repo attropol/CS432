@@ -1,0 +1,17 @@
+D:\C KOPYA\Desktop\Cloud_File_Storage_Publishing-project-master\MasterServer\Project_step1_server\bin\Debug\Project_step1_server.exe.config
+D:\C KOPYA\Desktop\Cloud_File_Storage_Publishing-project-master\MasterServer\Project_step1_server\obj\Debug\Project_step1_server.exe
+D:\C KOPYA\Desktop\Cloud_File_Storage_Publishing-project-master\MasterServer\Project_step1_server\obj\Debug\Project_step1_server.pdb
+D:\C KOPYA\Desktop\Cloud_File_Storage_Publishing-project-master\MasterServer\Project_step1_server\bin\Debug\Project_step1_server.exe
+D:\C KOPYA\Desktop\Cloud_File_Storage_Publishing-project-master\MasterServer\Project_step1_server\bin\Debug\Project_step1_server.pdb
+D:\C KOPYA\Desktop\Cloud_File_Storage_Publishing-project-master\MasterServer\Project_step1_server\obj\Debug\Project_step1_server.ServerForm.resources
+D:\C KOPYA\Desktop\Cloud_File_Storage_Publishing-project-master\MasterServer\Project_step1_server\obj\Debug\Project_step1_server.Properties.Resources.resources
+D:\C KOPYA\Desktop\Cloud_File_Storage_Publishing-project-master\MasterServer\Project_step1_server\obj\Debug\MasterServer.csproj.GenerateResource.Cache
+D:\C KOPYA\Desktop\CS432Project_Base\MasterServer\Project_step1_server\bin\Debug\Project_step1_server.exe.config
+D:\C KOPYA\Desktop\CS432Project_Base\MasterServer\Project_step1_server\obj\Debug\Project_step1_server.exe
+D:\C KOPYA\Desktop\CS432Project_Base\MasterServer\Project_step1_server\obj\Debug\Project_step1_server.pdb
+D:\C KOPYA\Desktop\CS432Project_Base\MasterServer\Project_step1_server\bin\Debug\Project_step1_server.exe
+D:\C KOPYA\Desktop\CS432Project_Base\MasterServer\Project_step1_server\bin\Debug\Project_step1_server.pdb
+D:\C KOPYA\Desktop\CS432Project_Base\MasterServer\Project_step1_server\obj\Debug\MasterServer.csprojResolveAssemblyReference.cache
+D:\C KOPYA\Desktop\CS432Project_Base\MasterServer\Project_step1_server\obj\Debug\Project_step1_server.ServerForm.resources
+D:\C KOPYA\Desktop\CS432Project_Base\MasterServer\Project_step1_server\obj\Debug\Project_step1_server.Properties.Resources.resources
+D:\C KOPYA\Desktop\CS432Project_Base\MasterServer\Project_step1_server\obj\Debug\MasterServer.csproj.GenerateResource.Cache
